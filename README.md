@@ -1,4 +1,4 @@
-![薇尔莉特·伊芙加登](https://picbed.saop.cc/moe/moe_60.png)
+![Asuna](https://cdn.staticaly.com/gh/adingapkgg/pic_bed@main/Asuna/Asuna16x9.webp)
 
 ## 关于我
 
