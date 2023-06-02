@@ -5,6 +5,7 @@
 - **你好陌生人，我是 Ading 阿定**
 - **本人：武装直升机，生于 21 世纪初的年轻小伙**
 - **爱好：遐想，计算机，自意识 AI，潜行 MMO，漫文化，睡觉**
+- ![AdingApkgg's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdingApkgg&show_icons=true&theme=radical)
 
 ## 最近在沉迷什么
 
