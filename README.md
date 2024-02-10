@@ -1,3 +1,5 @@
+![Moe-Counter](https://count.getloli.com/get/@Moe-Counter?theme=rule34)
+
 ![Asuna](./img/Asuna16x9.webp)
 
 ## 关于我
