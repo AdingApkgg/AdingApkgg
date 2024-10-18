@@ -14,6 +14,6 @@
 - **将 `ChatGPT` 调教成听话的猫娘（无端联想）..**
 - **补老番，追新番，熬厕纸**
 
-## 技术栈
+## 工具栈
 
 ![My Skills](https://skillicons.dev/icons?i=arch,bash,c,cloudflare,css,discord,git,github,githubactions,gmail,gulp,html,js,linux,md,netlify,npm,obsidian,ps,powershell,pr,py,stackoverflow,svg,twitter,vercel,vim,vscode,windows,wordpress)
