@@ -13,7 +13,14 @@
 - **将 `AI` 调教成听话的猫娘（无端联想..**
 - **补老番，追新番，熬厕纸**
 - **旮旯给木，启动！**
+- **awmc**
 
 ## Skills
 
 ![My Skills](https://skillicons.dev/icons?i=arch,bash,c,cloudflare,css,discord,git,github,githubactions,gmail,html,js,linux,md,netlify,obsidian,ps,powershell,pr,py,stackoverflow,svg,twitter,vercel,vscode,windows,wordpress,anaconda,apple,cpp,debian,docker,instagram,ipfs,linkedin,lit,materialui,neovim,nextjs,nginx,deno,pnpm,postgres,powershell,pytorch,react,redis,rust,sass,sqlite,svelte,tailwind,tauri,ts,vite,wasm,workers)
+
+## Maimai DX Rating
+
+<img src="https://dxrating.luoling.moe/api/genImage/NarusakaAsuna" />
+
+在广州增城或者广东湛江的 wmc 们欢迎与我拼机
