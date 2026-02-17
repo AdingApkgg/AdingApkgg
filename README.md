@@ -19,8 +19,8 @@
 
 ![My Skills](https://skillicons.dev/icons?i=arch,bash,c,cloudflare,css,discord,git,github,githubactions,gmail,html,js,linux,md,netlify,obsidian,ps,powershell,pr,py,stackoverflow,svg,twitter,vercel,vscode,windows,wordpress,anaconda,apple,cpp,debian,docker,instagram,ipfs,linkedin,lit,materialui,neovim,nextjs,nginx,deno,pnpm,postgres,powershell,pytorch,react,redis,rust,sass,sqlite,svelte,tailwind,tauri,ts,vite,wasm,workers)
 
-## Maimai DX Rating
+## maimai DX Rating
 
-<img src="https://dxrating.luoling.moe/api/genImage/NarusakaAsuna" />
+<img src="https://dxrating.luoling.moe/api/luoxue/genImage/367165286529031" alt="dxrating.luoling.moe" />
 
 在广州增城或者广东湛江的 wmc 们欢迎与我拼机
