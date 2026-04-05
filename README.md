@@ -21,6 +21,12 @@
 
 ## maimai DX Rating
 
+### 水鱼
+
+<img src="https://dxrating.luoling.moe/api/genImage/NarusakaAsuna" alt="dxrating.luoling.moe" />
+
+### 落雪
+
 <img src="https://dxrating.luoling.moe/api/luoxue/genImage/367165286529031" alt="dxrating.luoling.moe" />
 
-在广州增城或者广东湛江的 wmc 们欢迎与我拼机
+欢迎 广州增城 或 湛江吴川 的 wmc 们与我拼机~
