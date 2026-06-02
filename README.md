@@ -29,4 +29,4 @@
 
 <img src="https://dxrating.luoling.moe/api/luoxue/genImage/367165286529031" alt="dxrating.luoling.moe" />
 
-欢迎 广州 的 wmc 们与我拼机~
+欢迎来自 广州 的 wmc 们与我拼机~
