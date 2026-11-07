@@ -8,12 +8,18 @@
 
 你好陌生人。
 
-- 生于 21 世纪初的一台武装直升机，至今没退役，还在飞。
-- 白天写 TypeScript / Rust，晚上打 maimai，顺手把 ACGN 的站一个个搭起来，再想办法让它别挂。
+- 本人：生于 21 世纪初的年轻武装直升机
 - 爱好：遐想、计算机、自意识 AI、潜行 MMO、漫文化、睡觉、~~可爱又羞涩的~~ ~~合法萝莉~~
 - 喜欢 ~~可爱又羞涩~~ 的 ~~女孩子~~！
-- 开发早交给 vibe coding 了：在自己搭的 pi-web 上跟 agent 讲一句，比开编辑器快，iPhone 和 Mac 哪台在手边就用哪台。
+- 开发早就是 [vibe coding](https://zh.wikipedia.org/wiki/Vibe_coding) 了：在自己搭的 pi-web 上跟 agent 说一句，比开编辑器快得多，iPhone 和 Mac 哪个在手边就用哪个。
 - 宗教观：是个 [不可知论](https://zh.wikipedia.org/zh-hans/%E4%B8%8D%E5%8F%AF%E7%9F%A5%E8%AE%BA%E8%80%85) 者捏，否认人格化 `神` 的存在。
+
+## 爱好
+
+- 将 `AI` 调教成听话的猫娘（无端联想..
+- 补老番，追新番，熬厕纸
+- 旮旯给木，启动！
+- awmc
 
 ## 技术栈
 
@@ -27,16 +33,16 @@
 <img src="https://skillicons.dev/icons?i=html,css,sass,md,svg&theme=dark" alt="标记与样式" />
 
 **后端与数据**<br />
-<img src="https://skillicons.dev/icons?i=bun,nodejs,deno,hono,axum,prisma,postgres,redis,sqlite&theme=dark" alt="后端" />
+<img src="https://skillicons.dev/icons?i=bun,nodejs,deno,prisma,postgres,redis,sqlite&theme=dark" alt="后端" />
 
 **基础设施**<br />
-<img src="https://skillicons.dev/icons?i=docker,podman,nginx,cloudflare,workers,vercel,netlify,git,github,githubactions&theme=dark" alt="基础设施" />
+<img src="https://skillicons.dev/icons?i=docker,nginx,cloudflare,workers,vercel,netlify,git,github,githubactions&theme=dark" alt="基础设施" />
 
 **系统与工具**<br />
 <img src="https://skillicons.dev/icons?i=linux,arch,debian,apple,windows,powershell,neovim,vscode,obsidian&theme=dark" alt="系统" />
 
 **构建与媒体**<br />
-<img src="https://skillicons.dev/icons?i=pnpm,npm,turborepo,cmake,ffmpeg,figma,blender,opencv,pytorch,ipfs&theme=dark" alt="构建与媒体" />
+<img src="https://skillicons.dev/icons?i=pnpm,npm,cmake,figma,blender,opencv,pytorch,ipfs&theme=dark" alt="构建与媒体" />
 
 ## 音游
 
