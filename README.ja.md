@@ -1,6 +1,6 @@
 <img src="https://count.getloli.com/get/@Moe-Counter?theme=rule34" alt="アクセスカウンター" />
 
-[中文](https://github.com/AdingApkgg/AdingApkgg/blob/main/README.md) · [English](https://github.com/AdingApkgg/AdingApkgg/blob/main/README.en.md) · **日本語**
+[中文](https://github.com/AdingApkgg/AdingApkgg/blob/main/README.zh.md) · **日本語** · [English](https://github.com/AdingApkgg/AdingApkgg/blob/main/README.md)
 
 ## 自己紹介
 

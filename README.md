@@ -1,59 +1,59 @@
-<img src="https://count.getloli.com/get/@Moe-Counter?theme=rule34" alt="访问计数" />
+<img src="https://count.getloli.com/get/@Moe-Counter?theme=rule34" alt="visitor counter" />
 
-**中文** · [English](https://github.com/AdingApkgg/AdingApkgg/blob/main/README.en.md) · [日本語](https://github.com/AdingApkgg/AdingApkgg/blob/main/README.ja.md)
+[中文](https://github.com/AdingApkgg/AdingApkgg/blob/main/README.zh.md) · [日本語](https://github.com/AdingApkgg/AdingApkgg/blob/main/README.ja.md) · **English**
 
-## 关于
+## About
 
-你好陌生人。
+Hello, stranger.
 
-- 本人：生于 21 世纪初的年轻武装直升机，螺旋桨还转着，暂时没退役的打算
-- 爱好：遐想、计算机、自意识 AI、潜行 MMO、漫文化、睡觉，当然还有 ~~可爱又羞涩的~~ ~~合法萝莉~~
-- 喜欢 ~~可爱又羞涩~~ 的 ~~女孩子~~！
-- 开发早就是 [vibe coding](https://zh.wikipedia.org/wiki/Vibe_coding) 了：在自己搭的 [pi-web](https://github.com/agegr/pi-web) 上跟 agent 交代一句就收工，比开编辑器快得多，iPhone 和 Mac 哪个在手边就用哪个。
-- 宗教观：不可知论者捏，人格化的 `神` 一律不认，[理由在这](https://zh.wikipedia.org/zh-hans/%E4%B8%8D%E5%8F%AF%E7%9F%A5%E8%AE%BA%E8%80%85)。
+- Me: a young attack helicopter born in the early 2000s. Rotors still spinning, no retirement plans.
+- Hobbies: daydreaming, computers, self-aware AI, stealth MMOs, ACGN culture, sleeping, and of course ~~cute and shy~~ ~~legal lolis~~
+- I like ~~cute and shy~~ ~~girls~~!
+- Development has long since been [vibe coding](https://zh.wikipedia.org/wiki/Vibe_coding): tell an agent one line on my self-hosted [pi-web](https://github.com/agegr/pi-web) and I'm done — far quicker than opening an editor, on whichever of the iPhone or Mac is within reach.
+- Religion: agnostic. Any personified `god` gets a hard no — [here is why](https://zh.wikipedia.org/zh-hans/%E4%B8%8D%E5%8F%AF%E7%9F%A5%E8%AE%BA%E8%80%85).
 
-## 爱好
+## Hobbies
 
-- 将 `AI` 调教成听话的猫娘（无端联想..
-- 补老番，追新番，熬厕纸
-- 旮旯给木，启动！
+- Training `AI` into an obedient catgirl (where did that come from..)
+- Catching up on old anime, following new ones, grinding through trash
+- Visual novels, launch!
 - awmc
 
-## 技术栈
+## Stack
 
-**语言**<br />
-<img src="https://skillicons.dev/icons?i=ts,js,rust,py,c,cpp,bash&theme=dark" alt="语言" />
+**Languages**<br />
+<img src="https://skillicons.dev/icons?i=ts,js,rust,py,c,cpp,bash&theme=dark" alt="languages" />
 
-**前端**<br />
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,svelte,solidjs,astro,tailwind,vite,wasm&theme=dark" alt="前端" />
+**Frontend**<br />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,svelte,solidjs,astro,tailwind,vite,wasm&theme=dark" alt="frontend" />
 
-**标记与样式**<br />
-<img src="https://skillicons.dev/icons?i=html,css,sass,md,svg&theme=dark" alt="标记与样式" />
+**Markup and styling**<br />
+<img src="https://skillicons.dev/icons?i=html,css,sass,md,svg&theme=dark" alt="markup and styling" />
 
-**后端与数据**<br />
-<img src="https://skillicons.dev/icons?i=bun,nodejs,deno,prisma,postgres,redis,sqlite&theme=dark" alt="后端" />
+**Backend and data**<br />
+<img src="https://skillicons.dev/icons?i=bun,nodejs,deno,prisma,postgres,redis,sqlite&theme=dark" alt="backend and data" />
 
-**基础设施**<br />
-<img src="https://skillicons.dev/icons?i=docker,nginx,cloudflare,workers,vercel,netlify,git,github,githubactions&theme=dark" alt="基础设施" />
+**Infrastructure**<br />
+<img src="https://skillicons.dev/icons?i=docker,nginx,cloudflare,workers,vercel,netlify,git,github,githubactions&theme=dark" alt="infrastructure" />
 
-**系统与工具**<br />
-<img src="https://skillicons.dev/icons?i=linux,arch,debian,apple,windows,powershell,neovim,vscode,obsidian&theme=dark" alt="系统" />
+**Systems and tools**<br />
+<img src="https://skillicons.dev/icons?i=linux,arch,debian,apple,windows,powershell,neovim,vscode,obsidian&theme=dark" alt="systems and tools" />
 
-**构建与媒体**<br />
-<img src="https://skillicons.dev/icons?i=pnpm,npm,cmake,figma,blender,opencv,pytorch,ipfs&theme=dark" alt="构建与媒体" />
+**Build and media**<br />
+<img src="https://skillicons.dev/icons?i=pnpm,npm,cmake,figma,blender,opencv,pytorch,ipfs&theme=dark" alt="build and media" />
 
-## 音游
+## Rhythm games
 
-maimai DX 玩家，主玩 **水鱼** 与 **落雪** 两个平台，设备在本机，成绩常年被自己菜到。
+maimai DX player, mostly on **Shuiyu** and **Luoxue**, with the cab at home. My scores are ruined by my own skill level as usual.
 
-欢迎来自广州的 wmc 找我拼机，线上遇到也可以直接打招呼。
+WMCs from Guangzhou, come play on the cab with me; a wave online works too.
 
 <details>
-<summary>展开 B50</summary>
+<summary>Expand B50</summary>
 <br />
 
-<img src="https://dxrating.luoling.moe/api/genImage/NarusakaAsuna" width="620" alt="水鱼 B50" />
+<img src="https://dxrating.luoling.moe/api/genImage/NarusakaAsuna" width="620" alt="Shuiyu B50" />
 
-<img src="https://dxrating.luoling.moe/api/luoxue/genImage/367165286529031" width="620" alt="落雪 B50" />
+<img src="https://dxrating.luoling.moe/api/luoxue/genImage/367165286529031" width="620" alt="Luoxue B50" />
 
 </details>
