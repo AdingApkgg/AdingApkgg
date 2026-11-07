@@ -1,8 +1,4 @@
-<div align="center">
-
 <img src="https://count.getloli.com/get/@Moe-Counter?theme=rule34" alt="访问计数" />
-
-</div>
 
 ## 关于
 
