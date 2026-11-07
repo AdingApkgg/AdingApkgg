@@ -11,7 +11,7 @@
 - 本人：生于 21 世纪初的年轻武装直升机
 - 爱好：遐想、计算机、自意识 AI、潜行 MMO、漫文化、睡觉、~~可爱又羞涩的~~ ~~合法萝莉~~
 - 喜欢 ~~可爱又羞涩~~ 的 ~~女孩子~~！
-- 开发早就是 [vibe coding](https://zh.wikipedia.org/wiki/Vibe_coding) 了：在自己搭的 pi-web 上跟 agent 说一句，比开编辑器快得多，iPhone 和 Mac 哪个在手边就用哪个。
+- 开发早就是 [vibe coding](https://zh.wikipedia.org/wiki/Vibe_coding) 了：在自己搭的 [pi-web](https://github.com/agegr/pi-web) 上跟 agent 说一句，比开编辑器快得多，iPhone 和 Mac 哪个在手边就用哪个。
 - 宗教观：是个 [不可知论](https://zh.wikipedia.org/zh-hans/%E4%B8%8D%E5%8F%AF%E7%9F%A5%E8%AE%BA%E8%80%85) 者捏，否认人格化 `神` 的存在。
 
 ## 爱好
