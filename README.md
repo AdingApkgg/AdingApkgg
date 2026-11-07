@@ -1,5 +1,7 @@
 <img src="https://count.getloli.com/get/@Moe-Counter?theme=rule34" alt="访问计数" />
 
+**中文** · [English](https://github.com/AdingApkgg/AdingApkgg/blob/main/README.en.md) · [日本語](https://github.com/AdingApkgg/AdingApkgg/blob/main/README.ja.md)
+
 ## 关于
 
 你好陌生人。
